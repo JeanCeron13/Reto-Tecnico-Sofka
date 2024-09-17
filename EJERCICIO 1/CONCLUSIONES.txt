@@ -1,0 +1,14 @@
+1. Se elaboro un test case  con lo siguiente:
+	• Agregar dos productos al carrito
+	• Visualizar el carrito
+	•Completar el formulario de compra
+	•Finalizar la compra
+
+2. Los casos de prueba realizaron correctamente  
+3. Se trabajo con dos páginas que es la selección de los productos y registro del formulario. 
+4. Se instalo xpath para cypress a fin de utilizarlo para seleccionar botones requeridos para la prueba.
+
+
+
+
+

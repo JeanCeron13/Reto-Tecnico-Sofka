@@ -1,0 +1,19 @@
+1. Se a ejecutado los 5 casos de prueba 
+2. Se evidencia que al crear un usuario el endpoint el json de respuesta es:
+{"code":200,"type":"unknown","message":"1"}
+3. Al ejecutar la actualización del usuario el resultado es:
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "1" 
+}
+4. Al eliminar el usuario el json de response es:
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "user113"
+}
+5. Al crear un usuario que ya existe la aplicación no emite un mensaje de alerta. Se puede crear un mismo usuario varias veces.
+   {"code":200,"type":"unknown","message":"1"}	
+
+
